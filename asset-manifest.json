@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/AmritM1015/resume-react/static/css/main.f855e6bc.css",
-    "main.js": "/AmritM1015/resume-react/static/js/main.526cde6d.js",
-    "index.html": "/AmritM1015/resume-react/index.html",
-    "main.f855e6bc.css.map": "/AmritM1015/resume-react/static/css/main.f855e6bc.css.map",
-    "main.526cde6d.js.map": "/AmritM1015/resume-react/static/js/main.526cde6d.js.map"
+    "main.css": "/resume-react/static/css/main.f855e6bc.css",
+    "main.js": "/resume-react/static/js/main.526cde6d.js",
+    "index.html": "/resume-react/index.html",
+    "main.f855e6bc.css.map": "/resume-react/static/css/main.f855e6bc.css.map",
+    "main.526cde6d.js.map": "/resume-react/static/js/main.526cde6d.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
