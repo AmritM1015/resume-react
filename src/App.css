@@ -38,58 +38,74 @@
   justify-content: space-between;
   align-items: flex-start;
 }
+.personal{
+  display:flex;
+  flex-direction: row;
+  margin:25px;
+  border: 15px;
+  padding: 15px;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.personal-1{
+  padding-top: 10px;
+  padding-left:150px;
+  padding-right: 150px;
+}
+.work-experience{
+  display:flex;
+  flex-direction: row;
+  margin:25px;
+  border: 15px;
+  padding: 15px;
+  justify-content:space-between;
+  align-items: flex-start;
+}
+.jobs{
+  flex-direction: row;
+  padding-right: 350px;
+  padding-left: 75px;
+}
+.key-skills {
+  display: flex;
+  flex-direction: row;
+  margin:25px;
+  border: 15px;
+  padding: 15px;
+  align-items: flex-start;
+}
+.skills{
+  display: flex;
+  flex-direction: row;
+  padding-left: 125px;
+  padding-right: 125px;
+  gap:20px;
+}
+.education{
+    display: flex;
+    flex-direction: row;
+    margin:25px;
+    border: 15px;
+    padding: 15px;
+    align-items: flex-start;
+}
+.university{
+  flex-direction: row;
+  padding-left: 125px;
+}
+p{
+  line-height: 0.5;
+}
+ul{
+  list-style-type: none;
+  padding-left: 10px;
+}
 .hr-1{
   background-color: gold;
   border-width: 0;
   height:5px;
 }
-/*
-#profile{
-}
-#work-experience{
-    display:flex;
-    flex-direction: row;
-    gap: 10px;
-    margin:25px;
-    justify-content: space-evenly;
-    align-items: flex-start;
-}
-#key-skills {
-    display: flex;
-    flex-direction: row;
-    gap: 5px;
-    margin: 25px;
-    align-items: flex-start;
-}
-#education{
-    display: flex;
-    flex-direction: row;
-    gap: 20px;
-    margin: 25px;
-    align-items: flex-start;
-}
-.horizontal {
-    background-color: black;
-    margin:25px;
-    line-height: 1px;
-}
-.jobs{
-    flex-direction: column;
-}
-.university{
-    flex-direction: column;
-    padding-left: 20px;
-}
 
-h1{
-    line-height: 1;
-}
-p{
-    line-height: 0.5;
-}
-ul{
-    list-style-type: none;
-}*/
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

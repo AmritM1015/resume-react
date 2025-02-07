@@ -33,12 +33,13 @@ class App extends Component{
         title: "Key Skills",
         content1: "Python",
         content2: "Java",
-        content3: "AWS",
-        content4: "Windows/Linux",
-        content5:"Microsoft Office",
-        content6: "Problem Solving",
-        content7: "Communication & Teamwork",
-        content8: "Adaptive"
+        content3: "C",
+        content4: "AWS",
+        content5: "Windows/Linux",
+        content6:"Microsoft Office",
+        content7: "Problem Solving",
+        content8: "Communication & Teamwork",
+        content9: "Adaptive"
       },
       education: {
  
