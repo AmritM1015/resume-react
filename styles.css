@@ -1,8 +1,8 @@
-#top{
+/*#top{
     display:flex;
     flex-direction: row;
     justify-content: space-between;
-    margin:25px
+    margin:25px;
 }
 #profile{
     display:flex;
@@ -58,4 +58,4 @@ p{
 }
 ul{
     list-style-type: none;
-}
+}*/
