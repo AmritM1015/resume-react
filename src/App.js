@@ -51,13 +51,16 @@ class App extends Component{
   }
   render() {
     return (
-      console.log("App component is rendering..."),
       <div>
-        <Header personInfo={this.state.personInfo} contactInfo={this.state.contactInfo}></Header>
-        <Personal profile={this.state.profile}></Personal>
-        <Work workExperience={this.state.workExperience}></Work>
-        <Skills keySkills={this.state.keySkills}></Skills>
-        <Education education={this.state.education}></Education>
+        <Header personInfo={this.state.personInfo} contactInfo={this.state.contactInfo} />
+        <hr className='hr-1'/>
+        <Personal profile={this.state.profile} />
+        <hr />
+        <Work workExperience={this.state.workExperience} />
+        <hr />
+        <Skills keySkills={this.state.keySkills} />
+        <hr />
+        <Education education={this.state.education} />
       </div>
     );
   }
